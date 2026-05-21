@@ -5,6 +5,10 @@ import rawMarkdown from './src/integrations/raw-markdown.mjs';
 
 // https://astro.build/config
 export default defineConfig({
+	redirects: {
+		'/markmeld': '/markmeld/introduction',
+		'/filters': '/filters/figczar',
+	},
 	integrations: [
 		starlight({
 			title: 'Sciquill',
