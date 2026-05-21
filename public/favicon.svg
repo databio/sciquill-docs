@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" version="1.1" x="0px" y="0px" viewBox="0 0 71.310981 62.004787" id="svg6" ns1:docname="sciquill_bug.svg" ns2:version="0.92.5 (2060ec1f9f, 2020-04-08)" width="71.310982" height="62.004787">
+  <metadata id="metadata12">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </ns4:Work>
+    <dc:description>The figure depicts a bug or insect illustration, likely related to the SciQuill software or application.</dc:description></rdf:RDF>
+  </metadata>
+  <defs id="defs10"/>
+  <ns1:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" ns2:pageopacity="0" ns2:pageshadow="2" ns2:window-width="1743" ns2:window-height="968" id="namedview8" showgrid="false" ns2:zoom="1.18" ns2:cx="-168.3437" ns2:cy="82.166084" ns2:window-x="1426" ns2:window-y="368" ns2:window-maximized="0" ns2:current-layer="svg6" fit-margin-top="3" fit-margin-left="3" fit-margin-right="3" fit-margin-bottom="3"/>
+  <g transform="matrix(0.88258076,0,0,0.88258076,-8.4735481,-852.98171)" id="g4" style="fill:#3474db;fill-opacity:1;stroke-width:1.13304079">
+    <path style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3474db;fill-opacity:1;stroke:none;stroke-width:1.13304079;enable-background:accumulate" d="m 85.005078,969.86219 c -14.95109,0.0974 -32.74128,5.49301 -46.14432,14.61008 -6.70152,4.55853 -12.316675,10.05476 -15.828031,16.41683 -3.420839,6.1981 -4.776186,13.2555 -3.084597,20.6847 -2.377661,3.7394 -4.236755,8.1551 -6.948132,11.7441 4.510975,-2.977 6.484354,-6.1775 8.973372,-9.9996 12.951368,-0.4033 29.876788,-9.3001 38.853458,-15.5135 13.74142,-9.67183 25.74918,-22.50441 26.17234,-35.88661 0.0332,-1.06444 -0.92892,-2.05641 -1.99409,-2.056 z m -2.30566,4.20546 c -1.38503,8.87018 -9.00862,18.45847 -18.88147,26.47885 -5.266,0.243 -9.30166,0.7227 -13.92742,0.1869 4.93909,2.1163 6.92805,2.2498 10.46894,2.4921 -14.1109,9.9188 -23.20561,13.8603 -35.831179,16.1988 7.943729,-12.1057 16.279809,-23.04057 42.311939,-33.95518 -23.41707,7.52547 -34.18426,15.10568 -43.527083,30.27928 -0.140974,-4.5665 0.974965,-8.8797 3.209227,-12.9279 3.10941,-5.6338 8.262286,-10.74753 14.581726,-15.04617 3.96659,-2.69816 8.36961,-5.05168 12.9927,-7.0091 -0.0516,1.36166 0.15088,3.00674 0.56084,5.14001 0.71984,-2.61073 1.68851,-4.68213 2.58607,-6.38607 8.4422,-3.19245 17.39108,-5.09911 25.45571,-5.45152 z" marker="none" visibility="visible" display="inline" overflow="visible" id="path2" ns2:connector-curvature="0" ns1:nodetypes="cscccccccccccccccccccc"/>
+  </g>
+<desc>The figure depicts a bug or insect illustration, likely related to the SciQuill software or application.</desc></svg>

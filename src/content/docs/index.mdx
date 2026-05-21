@@ -1,0 +1,32 @@
+---
+title: Sciquill
+description: Scientific document authoring
+template: splash
+hero:
+  tagline: A web application for scientific document authoring
+  actions:
+    - text: Markmeld Docs
+      link: /markmeld/introduction/
+      icon: right-arrow
+    - text: View on GitHub
+      link: https://github.com/databio/sciquill-docs
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## About Sciquill
+
+Sciquill is a web application for authoring scientific documents. It uses [markmeld](/markmeld/introduction/) under the hood to render markdown and YAML content into publication-ready PDFs.
+
+## Components
+
+<CardGrid>
+	<Card title="Markmeld" icon="document" href="/markmeld/introduction/">
+		The `mm` command melds markdown content with Jinja templates to produce documents via pandoc.
+	</Card>
+	<Card title="Pandoc Filters" icon="setting" href="/filters/figczar/">
+		Custom Lua filters for figure management, change tracking, and citation handling.
+	</Card>
+</CardGrid>
